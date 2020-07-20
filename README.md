@@ -32,7 +32,8 @@ contributors name and contact info ex.[@priyansh0312](https://github.com/priyans
 GNU General Public License v3.0
 
 ## Reference
-* https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+* https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life  
+## 
 
 
 ![48ub98](https://user-images.githubusercontent.com/51047779/87949078-31bb1880-cac3-11ea-8995-1fa016f80d71.gif)
