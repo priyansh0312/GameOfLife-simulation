@@ -1,4 +1,4 @@
-# Game-Of-Life-simulation #MiniProject-1
+# GameOfLife simulation #MiniProject-1
 ## Description
 
 Game of life simulation model using Pygame and Numpy. The project is modulated under two files including the code for initializing the pygame environment and screen diamensions in GameOfLife.py and the logic code developed using OOPS with functions for getting the adjacent neighbours, colors and creating the n-dimensional array in Grid.py.
